@@ -1,0 +1,77 @@
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorSystem.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.HospitalSystem.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Login.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.MemberSystem.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Open.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.pdb
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+c:\users\asus\documents\visual studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorLogin.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.pdb
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorLogin.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorSystem.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.HospitalSystem.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Login.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.MemberSystem.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Open.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Properties.Resources.resources
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csproj.GenerateResource.Cache
+C:\Users\use\Desktop\HW1 (6)\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Appointment.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Appointment.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorLogin.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorSystem.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.HospitalSystem.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Login.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.MemberSystem.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Open.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\ödevvv\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Appointment.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorLogin.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorSystem.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.HospitalSystem.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Login.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.MemberSystem.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Open.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\DERSLER\database\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+C:\Users\Asus\Desktop\DERSLER\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+C:\Users\Asus\Desktop\DERSLER\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe.config
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.exe
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.exe
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\Debug\HospitalAppointmentSystem.pdb
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Appointment.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorLogin.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.DoctorSystem.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.HospitalSystem.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Login.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.MemberSystem.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Open.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.Properties.Resources.resources
+C:\Users\Pc\Desktop\Dersler\database\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csproj.GenerateResource.Cache
